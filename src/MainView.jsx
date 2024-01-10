@@ -22,9 +22,8 @@ const MainView = () => {
     }, []);
 
     const goToReport = () => {
-        navigate('/report')
+        window.navigate('/report')
     }
-
 
     return (
         <div className="App">

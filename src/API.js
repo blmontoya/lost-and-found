@@ -1,4 +1,4 @@
-const backendIP = 'http://10.31.64.51:4004';
+const backendIP = 'http://10.31.64.51:3000';
 
 export default function sendAPICall(
     toURL,
